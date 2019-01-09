@@ -1,0 +1,10 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is 5A07-C4F8
+
+ Directory of F:\git11
+
+09/01/2019  09:13 AM    <DIR>          .
+09/01/2019  09:13 AM    <DIR>          ..
+09/01/2019  09:13 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  162,093,768,704 bytes free
